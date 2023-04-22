@@ -116,7 +116,9 @@ body {
     padding-top: 186px;
 }
 
-.hero__main {}
+.hero__main {
+    Font-family: Roboto;
+}
 
 .hero__headline {
     font-weight: 500;
